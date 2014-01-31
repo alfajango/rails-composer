@@ -58,6 +58,8 @@ Email
 
 The application is configured to send email using a Gmail account.
 
+Email delivery is disabled in development.
+
 Getting Started
 ---------------
 
